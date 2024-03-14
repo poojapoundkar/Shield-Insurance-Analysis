@@ -24,6 +24,6 @@ Interactivity: Explore data dynamically using filters, slicers, and drill-down f
 
 
 # Dashboard Links : https://app.powerbi.com/view?r=eyJrIjoiMjk5M2NiMTQtYjBiYi00M2MyLWFiNDctNDdmOTAzY2VhZWEyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
-# LinkedIn Post :
+# LinkedIn Post : https://www.linkedin.com/posts/pooja-poundkar_codebasicsvirtualinternship-dataanalysis-activity-7173949628751568897-eyGZ?utm_source=share&utm_medium=member_desktop
 
 
