@@ -13,12 +13,15 @@ Analyzing vast insurance data often poses challenges in extracting actionable in
 Report Layout: This report is segregated into 4 different pages to offer a holistic view of insurance performance.
 
 Home: General overview
+
 General View: Monthly revenue, monthly customers, and change % between them.
+
 Sales Mode Analysis: Analysis of sales mode during different months and for different customers.
+
 Age Group Analysis: Segmentation of customers by age for in-depth data analysis.
+
 Interactivity: Explore data dynamically using filters, slicers, and drill-down features to tailor your analysis.
 
-# Insights: Uncover trends, correlations, and granular details through interactive visuals.
 
 # Dashboard Links
 # Live Dashboard
