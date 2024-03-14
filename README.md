@@ -23,9 +23,7 @@ Age Group Analysis: Segmentation of customers by age for in-depth data analysis.
 Interactivity: Explore data dynamically using filters, slicers, and drill-down features to tailor your analysis.
 
 
-# Dashboard Links
-# Live Dashboard
-# Video Presentation
-# LinkedIn Post 
+# Dashboard Links : https://app.powerbi.com/view?r=eyJrIjoiMjk5M2NiMTQtYjBiYi00M2MyLWFiNDctNDdmOTAzY2VhZWEyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+# LinkedIn Post :
 
 
